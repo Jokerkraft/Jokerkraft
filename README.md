@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**Jokerkraft/Jokerkraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Oskar
 
-Here are some ideas to get you started:
+## Bio
+* Oskar Luis Cabrera Chavero
+* I'm a Systems Engineering Student from TECNM Celaya
+* Learning web development focused on the backend
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+* Growing Web Developer
+* 🌱 Learning: Laravel, JavaScript, React, Databases, Bootstrap
+* 📍 Celaya, Guanajuato, Mexico
+* 📫 Contact: OskarCabrera2025@hotmail.com
+
+## Technologies
+* Languages: Java, C++, C#, HTML, CSS
+* Tools: Git, VS Code, Notepad++, IntelliJ IDEA
+
+## Connect with me:
+* LinkedIn: Oskar Luis Cabrera Chavero
+* Instagram: oskaaar.cabrera
+
+## Fun Facts
+* 🎮 When not coding, you can find me gaming or learning new frameworks
+* ☕ Powered by coffee 
+
+##GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jokerkraft&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
