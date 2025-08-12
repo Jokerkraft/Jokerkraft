@@ -25,6 +25,5 @@
 * 🎮 When not coding, you can find me gaming or learning new frameworks
 * ☕ Powered by coffee 
 
-##GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jokerkraft&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
