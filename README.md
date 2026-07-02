@@ -32,7 +32,9 @@
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oskar-luis-cabrera-chavero-b8a464370/)
+[![X / Twitter](https://img.shields.io/badge/X%20/%20Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/oskar_code)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oskaaar.cabrera/)
+[![Discord](https://img.shields.io/badge/Discord-oskaaar2023-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/oskaaar2023)
 
 ## Fun Facts
 * 🎮 When not coding, you can find me gaming or learning new frameworks
