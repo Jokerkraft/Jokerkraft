@@ -1,10 +1,10 @@
 # Hey, I'm Oskar
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3500&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!;I'm+a+Systems+Engineering+Student;Focused+on+Backend+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3500&pause=1000&color=FFD700&center=true&vCenter=true&width=850&lines=Welcome+to+my+profile!;I'm+a+Systems+Engineering+Student;Focused+on+Backend+Development" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Jokerkraft/count.svg" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Jokerkraft&color=gold&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 ---
