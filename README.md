@@ -28,3 +28,5 @@
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jokerkraft&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
+![Snake animation](https://github.com/Jokerkraft/Jokerkraft/blob/output/github-contribution-grid-snake.svg)
+
