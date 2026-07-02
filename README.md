@@ -60,3 +60,4 @@
   <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Jokerkraft/Jokerkraft/output/github-contribution-grid-snake.svg">
 </picture>
  
+-----
