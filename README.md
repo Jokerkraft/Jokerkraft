@@ -1,6 +1,6 @@
 # Hey, I'm Oskar
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0cmN0ZzZ0ZzZ0ZzZ0ZzZ0ZzZ0ZzZ/d3mlE7uhRoVX2Im4/giphy.gif" width="350" alt="Programmer Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;I'm+a+Systems+Engineering+Student;Focused+on+Backend+Development" alt="Typing SVG" />
 </p>
 
 ## Bio
