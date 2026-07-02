@@ -24,10 +24,10 @@
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 [![Supabase](https://skillicons.dev/icons?i=supabase)](https://supabase.com/)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
 [![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 [![IntelliJ](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/)
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
 [![Laravel](https://skillicons.dev/icons?i=laravel)](https://laravel.com/)
 
 ## Connect with me:
