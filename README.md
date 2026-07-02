@@ -1,4 +1,3 @@
-
 # Hey, I'm Oskar
 
 ## Bio
@@ -12,7 +11,7 @@
 * 📍 Celaya, Guanajuato, Mexico
 * 📫 Contact: OskarCabrera2025@hotmail.com
 
-## 🛠️ Technologies y Tools
+## 🛠️ Technologies and Tools
 
 [![Java](https://skillicons.dev/icons?i=java)](https://www.oracle.com/java/)
 [![Spring Boot](https://skillicons.dev/icons?i=spring)](https://spring.io/projects/spring-boot)
@@ -28,22 +27,24 @@
 [![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 [![IntelliJ](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/)
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
+[![Laravel](https://skillicons.dev/icons?i=laravel)](https://laravel.com/)
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oskar-luis-cabrera-chavero-b8a464370/)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oskaaar.cabrera/)
 
-
 ## Fun Facts
 * 🎮 When not coding, you can find me gaming or learning new frameworks
-* ☕ Powered by coffee 
+* ☕ Powered by coffee
+* 🐈 I have 2 charming cats
 
-## GitHub Stats
+## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jokerkraft&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
+### 🐍 Snake Game Contribution
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jokerkraft/Jokerkraft/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jokerkraft/Jokerkraft/output/github-contribution-grid-snake.svg">
   <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Jokerkraft/Jokerkraft/output/github-contribution-grid-snake.svg">
 </picture>
-
