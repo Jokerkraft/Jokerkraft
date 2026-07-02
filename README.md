@@ -12,9 +12,22 @@
 * 📍 Celaya, Guanajuato, Mexico
 * 📫 Contact: OskarCabrera2025@hotmail.com
 
-## Technologies
-* Languages: Java, C++, C#, HTML, CSS
-* Tools: Git, VS Code, Notepad++, IntelliJ IDEA
+## 🛠️ Technologies y Tools
+
+[![Java](https://skillicons.dev/icons?i=java)](https://www.oracle.com/java/)
+[![Spring Boot](https://skillicons.dev/icons?i=spring)](https://spring.io/projects/spring-boot)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/javascript)
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
+[![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/dotnet/csharp/)
+[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/html)
+[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/css)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![Supabase](https://skillicons.dev/icons?i=supabase)](https://supabase.com/)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![IntelliJ](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oskar-luis-cabrera-chavero-b8a464370/)
@@ -27,8 +40,6 @@
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jokerkraft&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
-![Snake animation](https://github.com/Jokerkraft/Jokerkraft/blob/output/github-contribution-grid-snake.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jokerkraft/Jokerkraft/output/github-contribution-grid-snake-dark.svg">
