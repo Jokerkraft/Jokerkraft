@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hey,%20I'm%20Oskar!&fontSize=70&animation=fadeIn&theme=tokyonight" alt="Banner Animado" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0cmN0ZzZ0ZzZ0ZzZ0ZzZ0ZzZ0ZzZ/d3mlE7uhRoVX2Im4/giphy.gif" width="350" alt="Programmer Animation"/>
 </p>
 # Hey, I'm Oskar
 
