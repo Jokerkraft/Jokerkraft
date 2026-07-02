@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hey,%20I'm%20Oskar!&fontSize=70&animation=fadeIn&theme=tokyonight" alt="Banner Animado" />
+</p>
 # Hey, I'm Oskar
 
 ## Bio
