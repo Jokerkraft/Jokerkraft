@@ -39,6 +39,10 @@
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
 [![Laravel](https://skillicons.dev/icons?i=laravel)](https://laravel.com/)
 
+## 🌐 Web Specifications
+* [MDN Web Docs](https://developer.mozilla.org/) - Core web technologies (HTML, CSS, JS)
+* [Node.js Docs](https://nodejs.org/docs/) - Server-side JavaScript runtime
+
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oskar-luis-cabrera-chavero-b8a464370/)
 [![X / Twitter](https://img.shields.io/badge/X%20/%20Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/oskar_code)
